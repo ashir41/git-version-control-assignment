@@ -1,0 +1,2 @@
+This file contains notes about using Git branches.
+Branches help developers work on features without affecting the main codebase.
